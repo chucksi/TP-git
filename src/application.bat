@@ -1,4 +1,6 @@
 ###application.bat-201x-Jourdain###
-echo"Copyright Jourdain-201x"
-echo "Build: 10:00"
-echo "version 1.1"
+version="2"
+build_hour= "11H00"
+
+echo "Build ${build_hour}"
+echo "version ${version}"
