@@ -1,1 +1,2 @@
-###test_app.bat-201x-Jourdain###
+###test_app.bat-2015-Jourdain###
+version = "1.2"
